@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: rgb(88, 103, 118);
     padding: 0;
     margin: 0;
 }
@@ -73,9 +73,9 @@ table {
     /* padding: 10px 25px; */
     margin: 10px 25px;
     width: 450px;
-    height: 550px;
+    height: 600px;
     max-height: 700px;
-    background-color: #ff0000;
+    background-color: #db3734;
     border: 10px solid #231f20;
     border-radius: 10%;
     overflow: hidden;
@@ -86,7 +86,7 @@ table {
 }
 .card:hover {
     width: 500px;
-    height: 600px;
+    height: 650px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 }
 
@@ -114,7 +114,6 @@ table {
 
 .card p {
     display: inline-block;
-    
     text-align: left;
     margin: 1% 5%;
 }
